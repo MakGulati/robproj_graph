@@ -1,15 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T08:47:18.894Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3GhR6J50W8KcSMpHyGoE" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T09:13:40.450Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="JYO1RQ0bRUgkvXO9vpIi" version="20.8.23" type="github">
   <diagram name="Page-1" id="Ofs9UHpUIScGUwqujJuh">
-    <mxGraphModel dx="1562" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Server&lt;/b&gt;&lt;/font&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#4D4D4D;shape=mxgraph.mscae.enterprise.workstation_client" vertex="1" parent="1">
-          <mxGeometry x="720" y="-110" width="70" height="70" as="geometry" />
+        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-5" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Server&lt;/b&gt;&lt;/font&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#4D4D4D;shape=mxgraph.mscae.enterprise.workstation_client" vertex="1" parent="1">
+          <mxGeometry x="730" y="-120" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.345;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ntnc2Ru-V7CuruGuNvEP-43">
+        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="330" as="sourcePoint" />
+            <mxPoint x="372" y="310" as="sourcePoint" />
             <mxPoint x="400" y="130" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
@@ -22,18 +22,18 @@
         </mxCell>
         <mxCell id="Ntnc2Ru-V7CuruGuNvEP-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="330" as="sourcePoint" />
+            <mxPoint x="510" y="310" as="sourcePoint" />
             <mxPoint x="440" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.091;exitY=-0.021;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ntnc2Ru-V7CuruGuNvEP-51">
+        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="691.6256350664794" y="340" as="sourcePoint" />
-            <mxPoint x="470" y="120" as="targetPoint" />
+            <mxPoint x="690" y="310" as="sourcePoint" />
+            <mxPoint x="500" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-20" value="&lt;font style=&quot;border-color: var(--border-color); color: rgb(0, 0, 255); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp; FL_Local_DataSet_Update +&lt;br&gt;FL_Local_Model_Update&lt;br&gt;&amp;nbsp;(&lt;/font&gt;&lt;i style=&quot;border-color: var(--border-color); color: rgb(0, 0, 255); font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;client response&lt;/i&gt;&lt;font style=&quot;border-color: var(--border-color); color: rgb(0, 0, 255); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; face=&quot;Courier New&quot;&gt;)&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-50;" vertex="1" parent="1">
-          <mxGeometry x="220" y="160" width="60" height="30" as="geometry" />
+        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-20" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); color: rgb(0, 0, 255); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 15px;&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp; FL_Local_DataSet_Update +&lt;br&gt;FL_Local_Model_Update&lt;br&gt;&amp;nbsp;(C&lt;/font&gt;&lt;i style=&quot;border-color: var(--border-color); color: rgb(0, 0, 255); font-family: Helvetica; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;lient&#39;s reply&lt;/i&gt;&lt;font style=&quot;border-color: var(--border-color); color: rgb(0, 0, 255); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 15px;&quot; face=&quot;Courier New&quot;&gt;)&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-50;" vertex="1" parent="1">
+          <mxGeometry x="210" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ntnc2Ru-V7CuruGuNvEP-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -44,23 +44,23 @@
         <mxCell id="Ntnc2Ru-V7CuruGuNvEP-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="140" as="sourcePoint" />
-            <mxPoint x="380" y="330" as="targetPoint" />
+            <mxPoint x="400" y="320" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.029;entryY=1.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="140" as="sourcePoint" />
-            <mxPoint x="540" y="330" as="targetPoint" />
+            <mxPoint x="460" y="130" as="sourcePoint" />
+            <mxPoint x="550" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-35" value="&lt;font color=&quot;#006600&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; face=&quot;Courier New&quot;&gt;FL_Global_Model_Update (&lt;/font&gt;&lt;i style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&amp;nbsp;Server Post request&lt;/i&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; face=&quot;Courier New&quot;&gt;)&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-55;" vertex="1" parent="1">
-          <mxGeometry x="290" y="230" width="60" height="30" as="geometry" />
+        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-35" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#006600&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; face=&quot;Courier New&quot;&gt;FL_Global_Model_Update (&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: Helvetica; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;i&gt;Server&#39;s POST&lt;br&gt;&amp;nbsp;request&lt;/i&gt;&lt;/span&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; face=&quot;Courier New&quot;&gt;)&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-55;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ntnc2Ru-V7CuruGuNvEP-51">
+        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="110" as="sourcePoint" />
-            <mxPoint x="736" y="319" as="targetPoint" />
+            <mxPoint x="520" y="90" as="sourcePoint" />
+            <mxPoint x="740" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ntnc2Ru-V7CuruGuNvEP-41" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -116,20 +116,14 @@
             <mxPoint x="550" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-56" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;802.15.4&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Wireless Gateway&lt;/b&gt;" style="shape=mxgraph.cisco.wireless.wlan_controller;html=1;pointerEvents=1;dashed=0;fillColor=#006633;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontFamily=Helvetica;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-40" width="101" height="70" as="geometry" />
+        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-56" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;802.15.4&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Wireless Gateway&lt;/b&gt;" style="shape=mxgraph.cisco.wireless.wlan_controller;html=1;pointerEvents=1;dashed=0;fillColor=#006633;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontFamily=Helvetica;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-60" width="91" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ntnc2Ru-V7CuruGuNvEP-57" target="Ntnc2Ru-V7CuruGuNvEP-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="-30" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="80" />
-              <mxPoint x="680" y="-75" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-73" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="Ntnc2Ru-V7CuruGuNvEP-57" target="Ntnc2Ru-V7CuruGuNvEP-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-57" value="&lt;b&gt;Router&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;strokeColor=#0000FF;fontFamily=Helvetica;fontSize=16;fontColor=#000000;fillColor=#006633;" vertex="1" parent="1">
-          <mxGeometry x="580" y="20" width="80" height="80" as="geometry" />
+        <mxCell id="Ntnc2Ru-V7CuruGuNvEP-57" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Router&lt;/font&gt;&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;strokeColor=#0000FF;fontFamily=Helvetica;fontSize=16;fontColor=#000000;fillColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="590" y="20" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
